@@ -21,6 +21,7 @@ A comprehensive web-based Student Management System built by Team 818 that helps
 - **Attendance Tracking**: Monitor and manage student attendance
 - **Results Management**: Track and manage semester results
 - **Follow-Up History**: Keep track of student follow-ups and interactions
+- **Email Notifications**: Automated email notifications for important events
 - **Report Generation**: Generate detailed PDF reports
 - **CSV Import/Export**: Bulk import and export student data
 - **Contact Management**: Maintain contact information for students
@@ -104,7 +105,23 @@ A comprehensive web-based Student Management System built by Team 818 that helps
    # DB_PASSWORD=your_password
    ```
 
-5. **Run Migrations**
+5. **Configure Email Settings**
+   ```bash
+   # Update .env file with your email configuration for notifications:
+   # MAIL_MAILER=smtp
+   # MAIL_HOST=smtp.gmail.com
+   # MAIL_PORT=587
+   # MAIL_USERNAME=your_email@gmail.com
+   # MAIL_PASSWORD=your_app_password
+   # MAIL_ENCRYPTION=tls
+   # MAIL_FROM_ADDRESS=your_email@gmail.com
+   # MAIL_FROM_NAME="${APP_NAME}"
+   
+   # Note: For Gmail, use App Password instead of regular password
+   # Generate App Password: Google Account Settings > Security > 2-Step Verification > App passwords
+   ```
+
+6. **Run Migrations**
    ```bash
    # Run database migrations to create tables
    php artisan migrate
@@ -160,6 +177,14 @@ A comprehensive web-based Student Management System built by Team 818 that helps
 - Go to "Student Report" or "Download Reports" section
 - Select required filters
 - Click generate to create PDF reports
+
+### System Requirements
+- **PHP**: >= 7.4 or 8.0+
+- **Composer**: Latest version
+- **MySQL**: >= 5.7
+- **Node.js**: >= 14.x
+- **NPM**: >= 6.x
+- **SMTP Email Service**: Gmail or other email provider with App Password support
 
 ## 🔑 Demo Credentials
 
@@ -227,7 +252,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Team 818
 
